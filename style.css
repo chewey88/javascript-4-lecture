@@ -72,3 +72,7 @@ header {
   align-items: center;
   justify-content: space-evenly;
 }
+.dark-mode{
+  background-color: gray;
+  color: white;
+}
